@@ -1,10 +1,11 @@
-I'm web developer with a focus on UX. I build tools to help others build and share what I learn along the way.
+Senior frontend infrastructure engineer at [Dave](https://dave.com).
 
-I'm on:
- - [Twitter 🐦](https://twitter.com/noahbschr)
- - [Instagram 📸](https://www.instagram.com/noahbuscher)
- - [LinkedIn 👔](https://www.linkedin.com/in/noahbuscher)
- - [Spotify 🎧](https://open.spotify.com/user/noahbuscher)
- - [Email 💌](mailto:me@noahbuscher.com)
+📍 Palm Springs, CA
 
-Reach out with any questions or just want to say hi!
+Find me on:
+ - [Twitter](https://twitter.com/noahbschr)
+ - [LinkedIn](https://www.linkedin.com/in/noahbuscher)
+
+[Email me](mailto:me@noahbuscher.com) for inquiries, questions, or just to say hi! 👋
+
+[Resume](https://read.cv/noahbuscher)
