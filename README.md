@@ -1,4 +1,4 @@
-Senior frontend infrastructure engineer at [Dave](https://dave.com).
+Senior software engineer on the frontend infrastructure team at [Dave](https://dave.com). 🐻
 
 🌴 Palm Springs, CA
 
